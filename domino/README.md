@@ -1,3 +1,5 @@
+youtube: https://youtu.be/ycMFObPjUn8
+
 # Raspberry Pi Domino LED Sequence with Button
 
 이 프로젝트는 Raspberry Pi에서 버튼을 누르면 **LED들이 도미노처럼 순서대로 켜졌다가 꺼지는 효과**를 보여주는 예제입니다.
