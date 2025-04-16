@@ -1,3 +1,5 @@
+youtube: https://youtu.be/R1r4cjsGSH4
+
 # Raspberry Pi 3-Bit LED Counter with Button
 
 이 프로젝트는 라즈베리파이의 GPIO를 이용해 **버튼을 누를 때마다 3개의 LED로 0부터 7까지 숫자를 2진수로 표시**하는 예제입니다.
